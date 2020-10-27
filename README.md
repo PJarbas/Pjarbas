@@ -4,3 +4,5 @@
 - 🌱 I’m currently learning Reinforcement Learning
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Pjarbas&show_icons=true&theme=chartreuse-dark&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pjarbas&show_icons=true&theme=chartreuse-dark&count_private=true)
