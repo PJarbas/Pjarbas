@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Pjarbas)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Pjarbas&show_icons=true)
