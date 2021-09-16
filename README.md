@@ -4,7 +4,7 @@
 - 👨‍💻 I use Python, C/C++ and Fortran languages
 
 * Working with end to end Data Science projects, build and deploy Machine Learning and Deep Learning models to provide robust solutions.
- (Python, Keras, TensorFlow, XAI, Django Rest, Flask, TDD, CI/CD). 
+ (Python, Keras, TensorFlow, OpenCV, XAI, Django Rest, Flask, TDD, CI/CD). 
  
  * Work with data acquisition, processing and analysis  (Pandas, Matplotlib, NumPy, SciPy, Beautifulsoup) Back-end development
  (Python, MATLAB, FORTRAN, C) and use technologies like Gitlab, Postgresql, Docker, Dash, Sphinx, Pandas, Scipy, 
