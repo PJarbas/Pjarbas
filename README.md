@@ -3,12 +3,14 @@
 - <img height="10" src="https://www.atlantico.com.br/wp-content/themes/atlantico/img/logo.png"> Cognitive Computing Leader/Data Scientist at [Instituto Atlântico](https://www.atlantico.com.br/).
 - <img height="20" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png"> [LinkedIn](https://www.linkedin.com/in/paulo-jarbas-876041a4/)
 
+
 ## Things I love to learn
 
 - 📈 Machine Learning
 - 🤖 Deep Learning
 - 🤖🕹️💰🌎 Reinforcement Learning
 - 👨‍💻👁️ Computer Vision
+
 
 ## My Tech Stack
 
@@ -31,6 +33,7 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt=""/>   
 </div>
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Pjarbas&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)
 
