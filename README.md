@@ -1,7 +1,9 @@
+[logo]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+
 ## Hi there 👋, I'm Paulo Jarbas
 
-- <img height="20" src="https://www.atlantico.com.br/wp-content/themes/atlantico/img/logo.png"> Cognitive Computing Leader/Data Scientist at [Instituto Atlântico](https://www.atlantico.com.br/).
-- <img height="20" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png"> [LinkedIn](https://www.linkedin.com/in/paulo-jarbas-876041a4/)
+- <img height="25" src="https://www.atlantico.com.br/wp-content/themes/atlantico/img/logo.png"> Cognitive Computing Leader/Data Scientist at [Instituto Atlântico](https://www.atlantico.com.br/).
+- [![**- LinkedIn **][logo]](https://www.linkedin.com/in/paulo-jarbas-876041a4/)
 
 
 ## Things I love to learn
@@ -35,7 +37,7 @@
 </div>
 
 
-## Gihub Stats
+## Github Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Pjarbas&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)
 
 <p align="center"> 
