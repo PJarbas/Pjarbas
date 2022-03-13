@@ -11,3 +11,8 @@
  Flask, Numpy, Jupyter Notebook, Matplotlib, Seaborn, Bokeh, scikit-learn, scrapy, Pyqt, Plotly, Pytest, Qgis.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Pjarbas&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Pjarbas/count.svg" />
+</p>
