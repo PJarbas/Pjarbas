@@ -1,14 +1,36 @@
 ### Hi there 👋, I'm Paulo Jarbas
 
-- 🔭 I’m a Data Scientist and I love to learn new things
-- 👨‍💻 I use Python, C/C++ and Fortran languages
+- <img height="10" src="https://www.atlantico.com.br/wp-content/themes/atlantico/img/logo.png"> Cognitive Computing Leader/Data Scientist at [Instituto Atlântico](https://www.atlantico.com.br/).
+- <img height="20" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png"> [LinkedIn](https://www.linkedin.com/in/paulo-jarbas-876041a4/)
 
-* Working with end to end Data Science projects, build and deploy Machine Learning and Deep Learning models to provide robust solutions.
- (Python, Keras, TensorFlow, OpenCV, XAI, Django Rest, Flask, TDD, CI/CD). 
- 
- * Work with data acquisition, processing and analysis  (Pandas, Matplotlib, NumPy, SciPy, Beautifulsoup) Back-end development
- (Python, MATLAB, FORTRAN, C) and use technologies like Gitlab, Postgresql, Docker, Dash, Sphinx, Pandas, Scipy, 
- Flask, Numpy, Jupyter Notebook, Matplotlib, Seaborn, Bokeh, scikit-learn, scrapy, Pyqt, Plotly, Pytest, Qgis.
+## Things I love to learn
+
+- 📈 Machine Learning
+- 🤖 Deep Learning
+- 🤖🕹️💰🌎 Reinforcement Learning
+- 👨‍💻👁️ Computer Vision
+
+## My Tech Stack
+
+<div align="center" style="padding-bottom: 20px">
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt=""/> 
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt=""/>   
+</div>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Pjarbas&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)
 
