@@ -8,10 +8,10 @@
 
 ## Things I love to learn
 
+- 👨‍💻👁️ Computer Vision
 - 📈 Machine Learning
 - 🤖 Deep Learning
 - 🤖🕹️💰🌎 Reinforcement Learning
-- 👨‍💻👁️ Computer Vision
 
 
 ## My Tech Stack
