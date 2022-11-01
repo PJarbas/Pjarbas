@@ -11,7 +11,7 @@
 - 👨‍💻👁️ Computer Vision
 - 📈 Machine Learning
 - 🤖 Deep Learning
-- 🤖🕹️💰🌎 Reinforcement Learning
+- 🤖🕹️💰🌎 Deep Reinforcement Learning
 
 
 ## My Tech Stack
