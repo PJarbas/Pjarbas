@@ -36,10 +36,9 @@
 </div>
 
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pjarbas&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pjarbas&layout=compact&langs_count=16&theme=chartreuse-dark"/>
-</div>
+### Github Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=Pjarbas&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)
+
 
 <p align="center"> 
   Visitor count<br>
