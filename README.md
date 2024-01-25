@@ -5,7 +5,7 @@
 - [![**- LinkedIn **][logo]](https://www.linkedin.com/in/paulo-jarbas-876041a4/)
 
 
-## Things I love to learn
+## Things I love to work
 
 - 👨‍💻👁️ Computer Vision
 - 📈 Machine Learning
