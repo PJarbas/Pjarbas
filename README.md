@@ -2,9 +2,6 @@
 
 ## Hi there 👋, I'm Paulo Jarbas
 
-- [![**- LinkedIn **][logo]](https://www.linkedin.com/in/paulo-jarbas-876041a4/)
-
-
 ## Things I love to work
 
 - 👨‍💻👁️ Computer Vision
