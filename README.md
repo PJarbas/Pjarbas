@@ -32,8 +32,3 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt=""/>   
 </div>
-
-
-### Github Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=Pjarbas&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)
-
