@@ -2,14 +2,6 @@
 
 ## Hi there 👋, I'm Paulo Jarbas
 
-## Things I love to work
-
-- 👨‍💻👁️ Computer Vision
-- 📈 Machine Learning
-- 🤖 Deep Learning
-- 🤖🕹️💰🌎 Deep Reinforcement Learning
-
-
 ## My Tech Stack
 
 <div align="center" style="padding-bottom: 20px">
